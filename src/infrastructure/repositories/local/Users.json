@@ -1,0 +1,47 @@
+[
+  {
+    "id": "b0fdba42-f727-41af-b6ff-cdb01dcbd8e2",
+    "name": "Patrica Stuart",
+    "email": "patricastuart@omnigog.com",
+    "phone": "+57 (905) 566-3979",
+    "address": "519 Nostrand Avenue, Lorraine, South Dakota, 3320",
+    "createdAt": "2024-06-18T16:38:19.362Z",
+		"updatedAt": ""
+  },
+  {
+    "id": "cb234926-f4c9-4e94-9928-409b679fdde0",
+    "name": "Lora Blair",
+    "email": "lorablair@omnigog.com",
+    "phone": "+57 (805) 442-3148",
+    "address": "633 Cropsey Avenue, Talpa, Montana, 5894",
+    "createdAt": "2024-06-18T16:38:19.362Z",
+		"updatedAt": ""
+  },
+  {
+    "id": "b1c084af-9cb1-4ea4-9184-3d52c138c02f",
+    "name": "Bessie Benton",
+    "email": "bessiebenton@omnigog.com",
+    "phone": "+57 (988) 580-2003",
+    "address": "645 Lester Court, Nicut, Texas, 8044",
+    "createdAt": "2024-06-18T16:38:19.362Z",
+		"updatedAt": ""
+  },
+  {
+    "id": "06b23eef-41e2-41a5-b24d-4664a9ae2876",
+    "name": "Head Glover",
+    "email": "headglover@omnigog.com",
+    "phone": "+57 (829) 429-2130",
+    "address": "843 Keap Street, Malott, Illinois, 6734",
+    "createdAt": "2024-06-18T16:38:19.362Z",
+		"updatedAt": ""
+  },
+  {
+    "id": "5dbd2d32-acea-429b-95da-fdb988937810",
+    "name": "Hendrix Schultz",
+    "email": "hendrixschultz@omnigog.com",
+    "phone": "+57 (846) 580-2567",
+    "address": "615 Troutman Street, Wintersburg, District Of Columbia, 6404",
+    "createdAt": "2024-06-18T16:38:19.362Z",
+		"updatedAt": ""
+  }
+]
