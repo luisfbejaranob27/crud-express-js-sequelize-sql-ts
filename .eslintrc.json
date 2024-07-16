@@ -1,0 +1,31 @@
+{
+  "extends": "standard-with-typescript",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "@typescript-eslint/semi": "off",
+    "@typescript-eslint/no-unused-vars": ["error", { "vars": "all", "args": "none" }],
+    "@typescript-eslint/space-before-function-paren": ["error", {
+      "anonymous": "always",
+      "named": "never",
+      "asyncArrow": "always"
+    }],
+		"@typescript-eslint/indent": [2, "tab"],
+		"no-tabs": "off",
+		"@typescript-eslint/consistent-type-imports": "off",
+		"@typescript-eslint/return-await": "off",
+		"no-trailing-spaces": "off",
+		"@typescript-eslint/lines-between-class-members": "off",
+		"@typescript-eslint/no-unsafe-argument": "off",
+		"@typescript-eslint/explicit-function-return-type": "off",
+		"@typescript-eslint/no-misused-promises": "off",
+		"@typescript-eslint/strict-boolean-expressions": "off",
+		"@typescript-eslint/no-base-to-string": "off",
+		"@typescript-eslint/restrict-template-expressions": "off"
+	},
+  "ignorePatterns": ["dist", "node_modules"]
+}
