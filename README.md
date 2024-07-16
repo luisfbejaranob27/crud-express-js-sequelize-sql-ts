@@ -10,6 +10,8 @@ Lista de las principales características y funcionalidades del proyecto.
 
 - CRUD de operaciones con la entidad Usuario.
 - Implementa **Arquitectura Limpia Hexagonal**.
+- **Validación** de **Schema** de peticiones con **Zod**.
+- Implementa test con peticiones HTTP utilizando Rest Client (.http)
 
 
 ## Instalación

@@ -1,0 +1,32 @@
+### Find All V1
+GET http://localhost:2786/api/v1/users
+
+### Find By Id V1
+GET localhost:2786/api/v1/users/cb234926-f4c9-4e94-9928-409b679fdde0
+
+### Find By Email V1
+GET localhost:2786/api/v1/users/bessiebenton@omnigog.com?filter=email
+
+### Create V1
+POST localhost:2786/api/v1/users
+Content-Type: application/json
+
+{
+  "name": "Dyer Whitfield",
+  "email": "dyerwhitfield@omnigog.com",
+  "phone": "+57 (932) 440-3222",
+  "address": "984 Tehama Street, Bergoo, Missouri, 2668"
+}
+
+### Update V1
+PATCH localhost:2786/api/v1/users/b0fdba42-f727-41af-b6ff-cdb01dcbd8e2
+Content-Type: application/json
+
+{
+  "name": "Luis Bejarano",
+  "email": "luisfbejaranob@omnigog.com",
+  "address": "Carrera 77 # 88A - 30"
+}
+
+### Find By Id V1
+DELETE localhost:2786/api/v1/users/b0fdba42-f727-41af-b6ff-cdb01dcbd8e2
